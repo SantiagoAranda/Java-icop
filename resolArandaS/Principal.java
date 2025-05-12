@@ -51,6 +51,12 @@ public class Principal {
                 Ejercicio9 ejercicio9 = new Ejercicio9();
                 ejercicio9.ejecutar();
                 break;
+
+            case 10:
+                Ejercicio10 ejercicio10 = new Ejercicio10();
+                ejercicio10.ejecutar();
+                break;
+                    
             case 15:
                 System.exit(0);
                 break;
