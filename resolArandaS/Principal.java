@@ -21,6 +21,16 @@ public class Principal {
                 Ejercicio3 ejercicio3 = new Ejercicio3();
                 ejercicio3.ejecutar();
                 break;
+
+            case 4:
+                Ejercicio4 ejercicio4 = new Ejercicio4();
+                ejercicio4.ejecutar();
+                break;   
+                
+            case 5:
+                Ejercicio5 ejercicio5 = new Ejercicio5();
+                ejercicio5.ejecutar();
+                break;    
             
             case 6:
                 Ejercicio6 ejercicio6 = new Ejercicio6();
@@ -32,6 +42,15 @@ public class Principal {
                 ejercicio7.ejecutar();
                 break;
 
+            case 8:
+                Ejercicio8 ejercicio8 = new Ejercicio8();
+                ejercicio8.ejecutar();
+                break;    
+            
+            case 9:
+                Ejercicio9 ejercicio9 = new Ejercicio9();
+                ejercicio9.ejecutar();
+                break;
             case 15:
                 System.exit(0);
                 break;
